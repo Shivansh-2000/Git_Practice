@@ -1,0 +1,53 @@
+h1:hover{
+	color: red;
+}
+
+.h2{
+	color: blue;
+}
+#contact-us{
+	color: purple;
+}
+h4:hover{
+	color: blue;
+}
+/*li:first-child{
+	color: steelblue;
+}*/
+/*li:last-child{
+	color: blue;
+}*/
+/*li:nth-child(2){
+	color: blue;
+}*/
+/*li:only-child{
+	color: purple;
+}*/
+
+/*#google-link:link{
+	color: blue
+}
+#google-link:visited{
+	color: red;
+}*/
+
+h1 + a{
+	color: red;
+}
+textarer + button{
+	color: purple;
+}
+
+ul > li{
+	color: blue;
+}
+ul li{
+	color: green;
+}
+img[src*="../Images/"]{
+	border: 10px solid black;
+}
+p{
+	background-color: black;
+	color: grey;
+}
